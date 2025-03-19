@@ -5,8 +5,6 @@ Luua Pygame'i abil lihtne graafiline rakendus, mis kuvab ekraanil tausta, ristk�
 **Lühikirjeldus:**
 Rakendus avab 640x480 suuruse akna, täidab selle hele-sinise taustaga ning kuvab punase ristküliku, mille peale laaditakse ja skaleeritakse pildifail "Knight.png".
 
-**GitHub link:** *(Lisa link, kui projekt on üles laaditud)*
-
 **Töötasin:** Üksi
 
 **Kas sain või andsin abi?**
